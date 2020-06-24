@@ -1,0 +1,6 @@
+2020-06-24 11:02:51,873 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2020-06-24 11:02:52,008 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2020-06-24 11:02:52,287 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2020-06-24 11:02:52,601 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2020-06-24 11:02:52,873 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2020-06-24 11:02:52,978 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password-error
